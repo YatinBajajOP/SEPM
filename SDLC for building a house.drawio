@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T14:38:34.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zq6jQ8mn0lBCHlJycB2a" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T14:45:44.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yXyDa7aADnSw6dOwfXr9" version="16.4.3" type="github">
   <diagram id="N88fRqQBOQMOm4eH01vv" name="Page-1">
     <mxGraphModel dx="1093" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -153,6 +153,42 @@
         </mxCell>
         <mxCell id="7y25BIzcjMbYV9Ad7kBw-48" value="Extra Accessories and features" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-3" value="Phase 1&lt;br&gt;Formation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-4" value="Phase 2&lt;br&gt;Requirement/ Planning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-6" value="Phase 3&lt;br&gt;Design" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-7" value="Phase 4&lt;br&gt;Construct" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-8" value="Phase 5&lt;br&gt;Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-9" value="Phase 6&lt;br&gt;Product release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-10" value="Phase 7&lt;br&gt;Post Implementation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="110" as="sourcePoint" />
+            <mxPoint x="1110" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DtMlrCJC0qW7CI2PNR6A-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="180" as="sourcePoint" />
+            <mxPoint x="1110" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

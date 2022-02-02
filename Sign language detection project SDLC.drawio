@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T17:14:13.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jQvzgYpjtDFMvJqwHRgl" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T20:25:54.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="iJTZ-ExENLJBvR2rMDeN" version="16.5.2" type="github">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="Page-1">
     <mxGraphModel dx="1461" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-10" value="Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="404" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1fPBEQJZeEz-Qx_IwhT-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=36;" edge="1" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-11" target="F1fPBEQJZeEz-Qx_IwhT-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-11" value="Identifying the aim and the procedure of the project" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="315" width="120" height="85" as="geometry" />
@@ -165,6 +168,9 @@
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Sign Language Detection&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="399" y="40" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F1fPBEQJZeEz-Qx_IwhT-57" value="Checking if we can get the time, funding and technical people for the project" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="420" width="120" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

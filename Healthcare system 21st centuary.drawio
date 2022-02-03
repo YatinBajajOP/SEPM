@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T09:19:26.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="aoIO1w59zmOOVJLuiBjn" version="16.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-03T09:21:16.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="yrJeRQrUrvVYGBgW6h-5" version="16.5.3" type="github" pages="5">
   <diagram id="m-UGv57kSACHkxUJC_R0" name="SDLC Diagram">
     <mxGraphModel dx="1656" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
             <mxPoint x="1150" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9VT-zQopOtRF9PmwW7Mm-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Healthcare in 21st Century&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="394" y="40" width="470" height="30" as="geometry" />
+        <mxCell id="9VT-zQopOtRF9PmwW7Mm-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;SDLC Diagram for Healthcare in 21st Century&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="234" y="40" width="790" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9VT-zQopOtRF9PmwW7Mm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9VT-zQopOtRF9PmwW7Mm-54" target="9VT-zQopOtRF9PmwW7Mm-55">
           <mxGeometry relative="1" as="geometry" />
@@ -175,39 +175,39 @@
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-0" />
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-1" parent="2ympeW1HPlJ-J8ujCVrC-0" />
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Waterfall model for Healthcare system&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
-          <mxGeometry x="100" y="50" width="670" height="30" as="geometry" />
+          <mxGeometry x="140" y="50" width="670" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="2ympeW1HPlJ-J8ujCVrC-1" source="2ympeW1HPlJ-J8ujCVrC-4" target="2ympeW1HPlJ-J8ujCVrC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-4" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-4" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="24" y="119" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="2ympeW1HPlJ-J8ujCVrC-1" source="2ympeW1HPlJ-J8ujCVrC-5" target="2ympeW1HPlJ-J8ujCVrC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-5" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-5" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="174" y="219" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="2ympeW1HPlJ-J8ujCVrC-1" source="2ympeW1HPlJ-J8ujCVrC-7" target="2ympeW1HPlJ-J8ujCVrC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-7" value="Designing the prototypes and machined to be incorporated&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-7" value="Designing the prototypes and machined to be incorporated&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="344" y="329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="2ympeW1HPlJ-J8ujCVrC-1" source="2ympeW1HPlJ-J8ujCVrC-10" target="2ympeW1HPlJ-J8ujCVrC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-10" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-10" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="474" y="419" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2ympeW1HPlJ-J8ujCVrC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="2ympeW1HPlJ-J8ujCVrC-1" source="2ympeW1HPlJ-J8ujCVrC-12" target="2ympeW1HPlJ-J8ujCVrC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-12" value="Testing and debugging the softwares installed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-12" value="Testing and debugging the softwares installed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="644" y="519" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ympeW1HPlJ-J8ujCVrC-13" value="Implementing the program to existing old machines and adding new features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
+        <mxCell id="2ympeW1HPlJ-J8ujCVrC-13" value="Implementing the program to existing old machines and adding new features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8FFFFF;" vertex="1" parent="2ympeW1HPlJ-J8ujCVrC-1">
           <mxGeometry x="784" y="609" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-4" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-4" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="14" y="120" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xPJC3eJ1T_MHryYM_bCt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="xPJC3eJ1T_MHryYM_bCt-1" source="xPJC3eJ1T_MHryYM_bCt-6" target="xPJC3eJ1T_MHryYM_bCt-8">
@@ -247,7 +247,7 @@
             <mxPoint x="244.52941176470586" y="599.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-6" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-6" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="174" y="220" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xPJC3eJ1T_MHryYM_bCt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="xPJC3eJ1T_MHryYM_bCt-1" source="xPJC3eJ1T_MHryYM_bCt-8" target="xPJC3eJ1T_MHryYM_bCt-10">
@@ -258,7 +258,7 @@
             <mxPoint x="393.9411764705883" y="599.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-8" value="Designing the prototypes and machined to be incorporated&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-8" value="Designing the prototypes and machined to be incorporated&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="334" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xPJC3eJ1T_MHryYM_bCt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="xPJC3eJ1T_MHryYM_bCt-1" source="xPJC3eJ1T_MHryYM_bCt-10" target="xPJC3eJ1T_MHryYM_bCt-12">
@@ -269,7 +269,7 @@
             <mxPoint x="538.6470588235293" y="599.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-10" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-10" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="464" y="380" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xPJC3eJ1T_MHryYM_bCt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="xPJC3eJ1T_MHryYM_bCt-1" source="xPJC3eJ1T_MHryYM_bCt-12" target="xPJC3eJ1T_MHryYM_bCt-13">
@@ -280,10 +280,10 @@
             <mxPoint x="714" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-12" value="Testing and debugging the softwares installed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-12" value="Testing and debugging the softwares installed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="654" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xPJC3eJ1T_MHryYM_bCt-13" value="Implementing the program to existing old machines and adding new features" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
+        <mxCell id="xPJC3eJ1T_MHryYM_bCt-13" value="Implementing the program to existing old machines and adding new features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
           <mxGeometry x="784" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xPJC3eJ1T_MHryYM_bCt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="xPJC3eJ1T_MHryYM_bCt-1">
@@ -328,17 +328,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BTTBpgfma2KQN3wpItlG" name="V Shaped model">
-    <mxGraphModel dx="1698" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VLZHjOJ6KcMEFxiAnT0Q-0" />
         <mxCell id="VLZHjOJ6KcMEFxiAnT0Q-1" parent="VLZHjOJ6KcMEFxiAnT0Q-0" />
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" source="LN4iH9fSnzV9U_ZMetDF-0" target="LN4iH9fSnzV9U_ZMetDF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-0" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-0" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="-300" y="457" width="140" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-1" value="Acceptance of the project by major hospitals and their level of testing" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-1" value="Acceptance of the project by major hospitals and their level of testing" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="160" y="463.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" source="LN4iH9fSnzV9U_ZMetDF-1" target="LN4iH9fSnzV9U_ZMetDF-0">
@@ -350,25 +350,25 @@
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" source="LN4iH9fSnzV9U_ZMetDF-15" target="LN4iH9fSnzV9U_ZMetDF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-15" value="Detailed Design of the programs in the new machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-15" value="Detailed Design of the programs in the new machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="-210" y="565" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" source="LN4iH9fSnzV9U_ZMetDF-17" target="LN4iH9fSnzV9U_ZMetDF-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-17" value="Testing and debugging the softwares installed" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-17" value="Testing and debugging the softwares installed" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="90" y="565" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-21" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-21" value="Writing the font end, back end and the algorithms and installing it into the newly designed machines" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="-62.5" y="655" width="135" height="83" as="geometry" />
         </mxCell>
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" source="LN4iH9fSnzV9U_ZMetDF-23" target="LN4iH9fSnzV9U_ZMetDF-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-23" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-23" value="Checking if we have the resources which are economically, technically and operationally viable for the healthcare project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="-360" y="359" width="160" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="LN4iH9fSnzV9U_ZMetDF-24" value="Implementing the program to existing old machines and adding new features" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
+        <mxCell id="LN4iH9fSnzV9U_ZMetDF-24" value="Implementing the program to existing old machines and adding new features" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1">
           <mxGeometry x="210" y="362" width="140" height="72" as="geometry" />
         </mxCell>
         <mxCell id="LN4iH9fSnzV9U_ZMetDF-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VLZHjOJ6KcMEFxiAnT0Q-1" target="LN4iH9fSnzV9U_ZMetDF-23">
@@ -394,7 +394,7 @@
         <mxCell id="cggJAaBuSbAzyIeAjKkg-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-5" target="cggJAaBuSbAzyIeAjKkg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-5" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-5" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="309" y="225" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-6" target="cggJAaBuSbAzyIeAjKkg-8">
@@ -404,7 +404,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-6" value="Quick Design of the programs and new machines" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-6" value="Quick Design of the programs and new machines" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="509" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-8" target="cggJAaBuSbAzyIeAjKkg-10">
@@ -414,7 +414,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-8" value="Building Prototype in accordance with the design" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-8" value="Building Prototype in accordance with the design" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="689" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-10" target="cggJAaBuSbAzyIeAjKkg-12">
@@ -427,7 +427,7 @@
         <mxCell id="cggJAaBuSbAzyIeAjKkg-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-10" target="cggJAaBuSbAzyIeAjKkg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-10" value="Hospitals evaluation of prototype" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-10" value="Hospitals evaluation of prototype" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="874" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-12" target="cggJAaBuSbAzyIeAjKkg-6">
@@ -437,34 +437,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-12" value="Refined prototype according to the hospital&#39;s needs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-12" value="Refined prototype according to the hospital&#39;s needs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="689" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-15" target="cggJAaBuSbAzyIeAjKkg-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-15" value="Final design of the programs and machines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-15" value="Final design of the programs and machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="1202" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cggJAaBuSbAzyIeAjKkg-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-17" target="cggJAaBuSbAzyIeAjKkg-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-17" value="Implementation and installation of programs into new machines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-17" value="Implementation and installation of programs into new machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="1202" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PwESg_79mA2EEXfDG4RA-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="cggJAaBuSbAzyIeAjKkg-19" target="PwESg_79mA2EEXfDG4RA-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cggJAaBuSbAzyIeAjKkg-19" value="&lt;span&gt;Testing and debugging the softwares installed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="cggJAaBuSbAzyIeAjKkg-19" value="&lt;span&gt;Testing and debugging the softwares installed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="1202" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PwESg_79mA2EEXfDG4RA-0" value="&lt;span&gt;Implementing the program to existing old machines, maintenance and adding new features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="PwESg_79mA2EEXfDG4RA-0" value="&lt;span&gt;Implementing the program to existing old machines, maintenance and adding new features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="1202" y="660" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4r7x5kT6ve8p-MdTBYrn-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="cggJAaBuSbAzyIeAjKkg-1" source="4r7x5kT6ve8p-MdTBYrn-0" target="cggJAaBuSbAzyIeAjKkg-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4r7x5kT6ve8p-MdTBYrn-0" value="&lt;span&gt;Checking if we have the resources which are economically, technically and operationally viable for the healthcare project&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
+        <mxCell id="4r7x5kT6ve8p-MdTBYrn-0" value="&lt;span&gt;Checking if we have the resources which are economically, technically and operationally viable for the healthcare project&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">
           <mxGeometry x="39" y="230" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4AJEx3YvN8mHaeEohXDQ-0" value="Hospitals satisfied with the prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="cggJAaBuSbAzyIeAjKkg-1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T09:04:14.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="VKviswgSTu5mFxZyQ4wN" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-11T09:08:28.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="TuDSA3Xh3aQwHNTz-KcL" version="16.5.6" type="github" pages="2">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,8 +52,11 @@
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-15" value="Dataset for the sign language" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="234" y="420" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-16" target="5Vd59NGnGNM8OoR70MD4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-16" value="Need of VM&#39;s for the high computational power usage" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="234" y="540" width="140" height="80" as="geometry" />
+          <mxGeometry x="234" y="530" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-18" target="F1fPBEQJZeEz-Qx_IwhT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +91,9 @@
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-29" value="Writing the front end code for the application" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="569" y="420" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-30" target="5Vd59NGnGNM8OoR70MD4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-30" value="Implementing the back end code with the algorithm for the application" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="569" y="540" width="120" height="80" as="geometry" />
         </mxCell>
@@ -99,6 +105,9 @@
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-33" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="724" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-34" target="5Vd59NGnGNM8OoR70MD4-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-34" value="Testing and debugging the code written" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="724" y="315" width="120" height="80" as="geometry" />
@@ -118,7 +127,7 @@
         <mxCell id="F1fPBEQJZeEz-Qx_IwhT-40" value="Deploying the website on the server and making the application public" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="884" y="315" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F1fPBEQJZeEz-Qx_IwhT-41" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="F1fPBEQJZeEz-Qx_IwhT-41" value="Acceptance document to be made and attested" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="884" y="414" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1fPBEQJZeEz-Qx_IwhT-43" target="5Vd59NGnGNM8OoR70MD4-1">
@@ -178,11 +187,32 @@
         <mxCell id="5Vd59NGnGNM8OoR70MD4-1" value="Making a plugin of the application for other video conferencing platforms&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1031" y="317.5" width="146" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Vd59NGnGNM8OoR70MD4-4" target="5Vd59NGnGNM8OoR70MD4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-4" value="Survey with the targeted community for estimating the need of our project" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="560" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5Vd59NGnGNM8OoR70MD4-6" value="Preparing the design document and getting it approved" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Vd59NGnGNM8OoR70MD4-6" target="5Vd59NGnGNM8OoR70MD4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-6" value="Design review" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-8" value="Making a feasibility analysis report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="690" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-10" value="Putting together the change of scope document&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234" y="640" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-12" value="Making the user and developer documentation" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-14" value="Preparing the design document and getting it approved" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Vd59NGnGNM8OoR70MD4-16" value="Summary of the system and its performance" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="724" y="420" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

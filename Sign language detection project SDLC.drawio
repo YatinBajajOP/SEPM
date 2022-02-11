@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T09:43:26.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="k8_A0Au8KQb4FAoWU1al" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-11T09:44:05.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="MUG0jV57QZBGoNp0xN-n" version="16.5.6" type="github" pages="2">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-6" value="Design review" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="404" y="540" width="120" height="80" as="geometry" />
+          <mxGeometry x="404" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-8" value="Making a feasibility analysis report" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="690" width="120" height="100" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="568.5" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-14" value="Preparing the design document and getting it approved" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="404" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="404" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Vd59NGnGNM8OoR70MD4-16" value="Summary of the system and its performance" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="724" y="420" width="120" height="80" as="geometry" />

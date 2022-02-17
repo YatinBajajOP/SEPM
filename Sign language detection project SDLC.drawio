@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T07:30:15.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GORszZT3EDVcRnMTHHRV" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-17T07:31:37.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ujT7_CUZH8pKcx83Wgm5" version="16.5.6" type="github" pages="3">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1278" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,7 +268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ds1A3nsENdrNwXLyjjkW" name="User flow diagram">
-    <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfRNZTGzkwOAzWpXfugV-0" />
         <mxCell id="YfRNZTGzkwOAzWpXfugV-1" parent="YfRNZTGzkwOAzWpXfugV-0" />
@@ -326,8 +326,8 @@
         <mxCell id="5qfEs1xi0CSyXHoTJJTz-14" value="Output : Text as subtitles or audio" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="YfRNZTGzkwOAzWpXfugV-1">
           <mxGeometry x="480" y="584" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5qfEs1xi0CSyXHoTJJTz-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;USER FLOW DIAGRAM FOR SIGNTECH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YfRNZTGzkwOAzWpXfugV-1">
-          <mxGeometry x="190" y="40" width="470" height="20" as="geometry" />
+        <mxCell id="5qfEs1xi0CSyXHoTJJTz-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;User flow diagram for SignTech&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YfRNZTGzkwOAzWpXfugV-1">
+          <mxGeometry x="235" y="40" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5qfEs1xi0CSyXHoTJJTz-17" value="&lt;font style=&quot;font-size: 12px&quot;&gt;After successful login&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="YfRNZTGzkwOAzWpXfugV-1">
           <mxGeometry x="410" y="190" width="130" height="40" as="geometry" />

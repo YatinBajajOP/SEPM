@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T12:19:58.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sqy9MoN8iVMvvjomsmLP" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-21T12:21:20.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Fuy52IxMvwQ-5IMEMTTz" version="16.6.1" type="github" pages="6">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1704" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -416,6 +416,17 @@
         </mxCell>
         <mxCell id="3c4MEUsWvrZjwtGZ-gOU-21" value="Stakeholders satisfied with the prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
           <mxGeometry x="970" y="250" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jeHLQfXkAnIwOPih4m1a" name="Incremental">
+    <mxGraphModel dx="1278" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="WtdLP_BOdc2k3rsZbvtT-0" />
+        <mxCell id="WtdLP_BOdc2k3rsZbvtT-1" parent="WtdLP_BOdc2k3rsZbvtT-0" />
+        <mxCell id="X9tBA8f4rOEFchP0h1Py-0" value="&lt;b&gt;Incremental Model for Sign language detection&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;" vertex="1" parent="WtdLP_BOdc2k3rsZbvtT-1">
+          <mxGeometry x="140" y="30" width="820" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T12:14:25.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wBrBBsU6DkmFhyxopR1v" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-21T12:19:58.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sqy9MoN8iVMvvjomsmLP" version="16.6.1" type="github" pages="5">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1704" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,6 +338,88 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="Ff1skjz0Cez5keHcvygA" name="Prototyping">
+    <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="mQXYbLhgj30lvq0sb5Eb-0" />
+        <mxCell id="mQXYbLhgj30lvq0sb5Eb-1" parent="mQXYbLhgj30lvq0sb5Eb-0" />
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-0" value="&lt;b&gt;Prototyping Model for Sign language detection&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="339" y="30" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-2" target="3c4MEUsWvrZjwtGZ-gOU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-2" value="Identifying the technology, dataset and computational power to accomplish the project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="309" y="225" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-4" target="3c4MEUsWvrZjwtGZ-gOU-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-4" value="Quick Design of the pages of the website according to the different features" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="509" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEc7M-l2dHr3bz0mB3xG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-6" target="3c4MEUsWvrZjwtGZ-gOU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-6" value="Building Prototype in accordance with the design" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="689" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-9" target="3c4MEUsWvrZjwtGZ-gOU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEc7M-l2dHr3bz0mB3xG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-9" target="3c4MEUsWvrZjwtGZ-gOU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-9" value="Feedback of the design by the stakeholders" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="850" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-11" target="3c4MEUsWvrZjwtGZ-gOU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="569" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-11" value="Refined prototype according to the customer&#39;s needs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="689" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-13" target="3c4MEUsWvrZjwtGZ-gOU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-13" value="Final user friendly GUI design for the application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="1202" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-15" target="3c4MEUsWvrZjwtGZ-gOU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-15" value="Writing the code for the front end, back end and the algorithms needed for the functioning of the website according to the design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="1182.25" y="360" width="159.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-17" target="3c4MEUsWvrZjwtGZ-gOU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-17" value="&lt;span&gt;Testing and debugging the product&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="1202" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-18" value="Modifying features depending on the users feedback and rating" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="1199.5" y="620" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-20" target="3c4MEUsWvrZjwtGZ-gOU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-20" value="Checking if we can get the time, funding, technology and technical people for the project&lt;br&gt;Survey with the targeted community for estimating the need of our project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="39" y="230" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-21" value="Stakeholders satisfied with the prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
+          <mxGeometry x="970" y="250" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="H8zwNXcwD0Bhs2qUU92p" name="Spiral Model">
     <mxGraphModel dx="2128" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -467,96 +549,6 @@
         </mxCell>
         <mxCell id="5qfEs1xi0CSyXHoTJJTz-22" value="New User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="YfRNZTGzkwOAzWpXfugV-1" vertex="1">
           <mxGeometry x="470" y="130" width="70" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Ff1skjz0Cez5keHcvygA" name="Prototyping">
-    <mxGraphModel dx="1504" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="mQXYbLhgj30lvq0sb5Eb-0" />
-        <mxCell id="mQXYbLhgj30lvq0sb5Eb-1" parent="mQXYbLhgj30lvq0sb5Eb-0" />
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-0" value="&lt;b&gt;Prototyping Model for Sign language detection&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=36;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="339" y="30" width="820" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-2" target="3c4MEUsWvrZjwtGZ-gOU-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-2" value="Obtaining MEDITECH compatible resources, making point of care documentation and fixing budget" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="309" y="225" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-4" target="3c4MEUsWvrZjwtGZ-gOU-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="569" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-4" value="Quick Design of the programs and new machines" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="509" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-6" target="3c4MEUsWvrZjwtGZ-gOU-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="934" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-6" value="Building Prototype in accordance with the design" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="689" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-9" target="3c4MEUsWvrZjwtGZ-gOU-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="934" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-9" target="3c4MEUsWvrZjwtGZ-gOU-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-9" value="Hospitals evaluation of prototype" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="874" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-11" target="3c4MEUsWvrZjwtGZ-gOU-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="569" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-11" value="Refined prototype according to the hospital&#39;s needs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="689" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-13" target="3c4MEUsWvrZjwtGZ-gOU-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-13" value="Final design of the programs and machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="1202" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-15" target="3c4MEUsWvrZjwtGZ-gOU-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-15" value="Implementation and installation of programs into new machines" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="1202" y="380" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-17" target="3c4MEUsWvrZjwtGZ-gOU-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-17" value="&lt;span&gt;Testing and debugging the softwares installed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="1202" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-18" value="&lt;span&gt;Implementing the program to existing old machines, maintenance and adding new features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="1202" y="660" width="125" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="mQXYbLhgj30lvq0sb5Eb-1" source="3c4MEUsWvrZjwtGZ-gOU-20" target="3c4MEUsWvrZjwtGZ-gOU-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-20" value="&lt;span&gt;Checking if we have the resources which are economically, technically and operationally viable for the healthcare project&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#00FFFF;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="39" y="230" width="230" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3c4MEUsWvrZjwtGZ-gOU-21" value="Hospitals satisfied with the prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="mQXYbLhgj30lvq0sb5Eb-1">
-          <mxGeometry x="994" y="250" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T09:00:45.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="L-xnIxxJIZEzvJSd-jna" version="16.6.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-04T09:01:00.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Rmrhp5l-sXQldwvw06nQ" version="16.6.3" type="github" pages="6">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -687,7 +687,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6Crtu5wWx5yAyfSCiWP-41" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-41" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
           <mxGeometry x="630" y="980" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-42" value="Pushes new features into the web application" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">

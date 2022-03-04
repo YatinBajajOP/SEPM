@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T09:00:08.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xK3o7UkjLsBkOPBgNr8b" version="16.6.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-04T09:00:45.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="L-xnIxxJIZEzvJSd-jna" version="16.6.3" type="github" pages="6">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -620,7 +620,7 @@
           <mxGeometry x="360" y="380" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-14" value="User given the choice to select output in text/speech" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="360" y="290" width="150" height="70" as="geometry" />
+          <mxGeometry x="350" y="290" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-18" value="Logs in" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r-CKxejfcNJ0A0U20euR-1" source="p6Crtu5wWx5yAyfSCiWP-7" target="p6Crtu5wWx5yAyfSCiWP-11">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -651,16 +651,16 @@
           <mxGeometry x="140" y="670" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-27" value="Login Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="350" y="490" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-28" value="Uploads the audio/text" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="345" y="690" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="710" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-29" value="Output is returned in series of images in video format" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="350" y="780" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-30" value="User given the choice to select input in text/speech" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="340" y="590" width="150" height="80" as="geometry" />
+          <mxGeometry x="350" y="600" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-31" value="Logs in" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="r-CKxejfcNJ0A0U20euR-1" source="p6Crtu5wWx5yAyfSCiWP-26" target="p6Crtu5wWx5yAyfSCiWP-27">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -691,10 +691,10 @@
           <mxGeometry x="630" y="980" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-42" value="Pushes new features into the web application" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="340" y="900" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="920" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-43" value="Fixes bugs if any." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
-          <mxGeometry x="340" y="1030" width="140" height="70" as="geometry" />
+          <mxGeometry x="355" y="1040" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p6Crtu5wWx5yAyfSCiWP-44" value="Updates" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r-CKxejfcNJ0A0U20euR-1" source="p6Crtu5wWx5yAyfSCiWP-41" target="p6Crtu5wWx5yAyfSCiWP-42">
           <mxGeometry width="80" relative="1" as="geometry">

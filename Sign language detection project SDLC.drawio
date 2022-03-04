@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T12:50:54.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3pstX240s_4HEnjdUyYn" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-04T08:29:03.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="K-Yf0eeCMYcANdW5pBwH" version="16.6.3" type="github" pages="6">
   <diagram id="AYm3j54yCK5nMmzCIrk1" name="SDLC">
-    <mxGraphModel dx="1275" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,7 +512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ds1A3nsENdrNwXLyjjkW" name="User flow diagram">
-    <mxGraphModel dx="956" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YfRNZTGzkwOAzWpXfugV-0" />
         <mxCell id="YfRNZTGzkwOAzWpXfugV-1" parent="YfRNZTGzkwOAzWpXfugV-0" />
@@ -590,6 +590,46 @@
         </mxCell>
         <mxCell id="5qfEs1xi0CSyXHoTJJTz-22" value="New User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="YfRNZTGzkwOAzWpXfugV-1" vertex="1">
           <mxGeometry x="470" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CQZ7aP3lSSZB8_ipI9EO" name="Use Case diagram">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <object label="" id="r-CKxejfcNJ0A0U20euR-0">
+          <mxCell />
+        </object>
+        <mxCell id="r-CKxejfcNJ0A0U20euR-1" parent="r-CKxejfcNJ0A0U20euR-0" />
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="560" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-3" value="" style="html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="240" y="140" width="290" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-5" value="Differently abled - blind" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="140" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-6" value="Differently abled - deaf" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="140" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-7" value="Normal user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="140" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-9" value="Sign Tech Webapp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="320" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="310" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-12" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="310" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="310" y="385" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p6Crtu5wWx5yAyfSCiWP-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="r-CKxejfcNJ0A0U20euR-1">
+          <mxGeometry x="310" y="490" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
